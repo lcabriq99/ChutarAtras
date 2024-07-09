@@ -1,0 +1,8 @@
+0,249	Recv lol_1: (init lol(version 15))
+0,249	Recv lol_1: (move -50 0)
+0,1867	Recv lol_2: (init lol(version 15))
+0,1867	Recv lol_2: (move -40 -10)
+0,2376	Recv lol_3: (init lol(version 15))
+0,2376	Recv lol_3: (move -35 -28)
+0,2558	Recv lol_4: (init lol(version 15))
+0,2558	Recv lol_4: (move -40 10)
